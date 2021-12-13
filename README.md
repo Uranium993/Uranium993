@@ -1,6 +1,6 @@
 - 👋  Hi, I'm Djordje, ('George' is the english version) 
 - 👀  I’m interested in programing in general, but of course, 
-    since I did not study computer sciences, web development is kind of my entry point.  
+    since I did not study computer sciences, web development is my entry point.  
 
 - 🌱  I’m currently learning 
 - JavaScript, 
@@ -15,11 +15,10 @@
 
 Music is my hobby, I've been playing, singing, producing (for myself at least) for years.. 
 
-
-
 - 📫 How to reach me
 
-Unfortunately I'm not a big fan of social media, so not much to see here
+Unfortunately I'm not a big fan of social media, so not much to see here: 
+
 - linkedin.com/in/djordje-radanovic-a11bb2191
 - https://www.facebook.com/djordje.j.radanovic
 
