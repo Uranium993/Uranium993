@@ -1,12 +1,29 @@
-- 👋 ## Hi, I'm Djordje, 
-- 👀 I’m interested in programing in general, but of course, 
-    since I did not study computer sciences, web development is easily available.  
+- 👋  Hi, I'm Djordje, ('George' is the english version) 
+- 👀  I’m interested in programing in general, but of course, 
+    since I did not study computer sciences, web development is kind of my entry point.  
 
-- 🌱 I’m currently learning JavaScript, React framework, NodeJs, a bit of devops caught my eye.. 
-  And I'm very interested in backend development and since I've started tinckering with linux, 
-  I was mindblown by the terminal and posibilites..
+- 🌱  I’m currently learning 
+- JavaScript, 
+- NodeJs,
+- React framework,  
+  And I'm very interested in backend development, and after I settle in with 
+- TypeScript a bit, 
+- Golang will be my next big time investment.
 
-- 📫 How to reach me ...
+- a bit of devops stuff also caught my interest since I started tinkering with docker and Linux OS 
+
+
+Music is my hobby, I've been playing, singing, producing (for myself at least) for years.. 
+
+
+
+- 📫 How to reach me
+
+Unfortunately I'm not a big fan of social media, so not much to see here
+- linkedin.com/in/djordje-radanovic-a11bb2191
+- https://www.facebook.com/djordje.j.radanovic
+
+
 
 <!---
 Uranium993/Uranium993 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
