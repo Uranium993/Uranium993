@@ -21,7 +21,7 @@ have used libraries (or whatever they are called):
 
 <br>
 <br>
-Fun fact: Music is my hobby (as every other's dev), I've been playing, singing, producing (for myself at least) for years.. 
+Fun fact: Music is my hobby (as is every other's developer), I've been playing, singing, producing (for myself at least) for years.. 
 <br>
 <br>
 
