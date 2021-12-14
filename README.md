@@ -19,11 +19,11 @@ have used libraries (or whatever they are called):
 #### GSAP (animations)
 #### ThreeJS 
 
-
-
-
-
-Music is my hobby, I've been playing, singing, producing (for myself at least) for years.. 
+<br>
+<br>
+Fun fact: Music is my hobby (as every other's dev), I've been playing, singing, producing (for myself at least) for years.. 
+<br>
+<br>
 
 - 📫 How to reach me
 
