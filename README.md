@@ -29,8 +29,8 @@ Fun fact: Music is my hobby (as is every other's developer), I've been playing, 
 
 - 📫 How to reach me
 
-- linkedin.com/in/djordje-radanovic-a11bb2191
-- https://www.facebook.com/djordje.j.radanovic
+linkedin.com/in/djordje-radanovic-a11bb2191
+https://www.facebook.com/djordje.j.radanovic
 
 my first app deployed: 
 https://shrouded-lake-87726.herokuapp.com/
