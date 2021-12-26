@@ -12,7 +12,9 @@
 
 - a bit of devops stuff also caught my interest since I started tinkering with docker and Linux OS 
 - a tiny bit of React Native 
+- 
 <br>
+
 have used libraries (or whatever they are called): 
 #### Redux
 #### ReactQuery
