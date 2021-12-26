@@ -12,7 +12,7 @@
 
 - a bit of devops stuff also caught my interest since I started tinkering with docker and Linux OS 
 - a tiny bit of React Native 
-- 
+
 <br>
 
 have used libraries (or whatever they are called): 
@@ -35,7 +35,4 @@ Fun fact: Music is my hobby (as is every other's developer), I've been playing, 
 my first app deployed: 
 https://shrouded-lake-87726.herokuapp.com/
 
-<!---
-Uranium993/Uranium993 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
