@@ -10,16 +10,24 @@
 - ### TypeScript a bit, 
 - ### Golang will be my next big time investment.
 
-- a bit of devops stuff also caught my interest since I started tinkering with docker and Linux OS 
-- a tiny bit of React Native 
+- a bit of devops stuff also caught my interest since I started tinkering with shell, LinuxOS, dockers...
+- a bit of React Native 
 
 <br>
 
-have used libraries (or whatever they are called): 
-#### Redux
+state managers used:
+#### Redux (and Redux/Toolkit)
 #### ReactQuery
-#### GSAP (animations)
-#### ThreeJS 
+
+React libraries:
+#### MaterialUI
+#### AntDesign
+
+On the backend:
+#### express
+#### mongoDB
+#### mySQL
+
 
 <br>
 <br>
